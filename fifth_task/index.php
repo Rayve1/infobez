@@ -10,7 +10,7 @@
     }
 
 ?>
-
+Hui
 <form action="" method="GET">
     <input type="text" name="p">
     <input type="submit" value="Send">
